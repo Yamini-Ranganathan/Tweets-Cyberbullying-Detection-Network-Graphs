@@ -1,4 +1,4 @@
-# Detecting Cyberbullying Through Tweets and Network Graph
+# Detecting Cyberbullying Through Tweets and Network Graphs
 Final Term Project for Natural Language Processing ( DSCI 6004 ) - Spring 2022 by Yamini Ranganathan, Rachel Porter, and Yashpreet Malhotra.
 
 ## Aim
