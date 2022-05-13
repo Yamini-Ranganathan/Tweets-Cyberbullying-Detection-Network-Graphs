@@ -35,15 +35,15 @@ b.	Bidirectional LSTM for sentiment classification – Top 20 most common words 
 
 c. BERT Transformer: original BERT model from Hugging Face library with additional Dense layers to perform the desired classification task. Create a custom BERT classifier class by adding the Dense layers to original BERT. Use a Linear Warmup Learning rate scheduler to reduce the volatility in the early stages of training. 
 
-## Network Graphs
+5. Network Graphs
 
-Create Parallel Coordinates Plot (PCP to analyze the pattens and relation between the different categories of cyberbullying. Create network graph to display relationships between elements (nodes) and to visualize clusters .
+Create Parallel Coordinates Plot (PCP) to analyze the pattens and relation between the different categories of cyberbullying. Create network graph to display relationships between elements (nodes) and to visualize clusters.
 
 ## Model Evaluation
 
-As a classification problem for Tweet Sentiment Analysis, we used the evaluation metrics of Precision, Recall, F-score, and Accuracy (confusion matrix)
+As a classification problem for Tweet Sentiment Analysis, we used the evaluation metrics of Precision, Recall, F-score, and Accuracy (Confusion Matrix)
  
 ## Results
 
-Among the different models, Naive Bayes classifier achieved an overall accuracy score of 85%, Custom Bidirectional LSTM had an overall accuracy score of 93%, custom BERT had the highest accuracy of 94%. Both Parallel coordinates plot graph and Network graph indicates that cyberbullying is directed towards more than one criterion.
+Among the three different models evaluated, Naive Bayes classifier achieved an overall accuracy score of 85%, Custom Bidirectional LSTM had an overall accuracy score of 93%, whereas, Custom BERT had the highest accuracy of 94%. Both Parallel coordinates plot graph and Network graph indicate that cyberbullying is directed towards more than one criterion.
 
